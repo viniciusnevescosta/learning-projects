@@ -1,5 +1,7 @@
 # Projetos de Estudo
 
+![image](https://github.com/viniciusnevescosta/learning-projects/assets/66970818/2b0cf043-cdee-4d28-8798-32f5e21a7e3c)
+
 Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos que desenvolvi durante minha jornada de aprendizado.
 
 - Read in [english.](en_README.md)
