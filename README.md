@@ -2,6 +2,13 @@
 
 Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos que desenvolvi durante minha jornada de aprendizado.
 
+## Sumário de Conteúdos
+
+- [Projetos](#projetos)
+- [Como Navegar pelos Projetos](#como-navegar-pelos-projetos)
+- [Habilidades Adquiridas](#habilidades-adquiridas)
+- [Recursos de Aprendizado](#recursos-de-aprendizado)
+
 ## Projetos
 
 1. ⚛️ **[Learning React](https://github.com/viniciusnevescosta/learning-react):**
