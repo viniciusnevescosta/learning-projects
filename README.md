@@ -27,26 +27,46 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
 3. 🖖 **[Learning VueJs](https://github.com/viniciusnevescosta/learning-vuejs):**
    - Tech Stack: VUE3 e TailwindCSS.
    - Mergulhei no VueJs com um web app para gerenciar listas de compras. Descubra como VueJs facilita a criação de interfaces amigáveis, enquanto eu tento manter minha lista de compras sob controle. Spoiler: Comprar chocolate nunca foi tão eficiente!
+  
+4. 💼 **[Dev Community](https://github.com/viniciusnevescosta/dev-community):**
+   - Tech Stack: TypeScript e SCSS.
+   - Portfólio de projetos. Visualize todos os projetos públicos de um perfil, usando a API do Github. Porque mostrar um projeto por vez é coisa do passado.
 
-4. 🔍 **[Human Sciences Quiz Web App](https://github.com/viniciusnevescosta/schoolwork-quiz-webapp):**
+5. ✍️ **[Simple Blog](https://github.com/viniciusnevescosta/challenge-codelandia-blog):**
+    - Tech Stack: JavaScript e SCSS.
+    - Era para ser um web app de blog. Serve mais como um diário de pequenas ideias com funções semelhantes a um blog pessoal. Às vezes, os projetos são como gatos, têm uma mente própria.
+
+6. 🎮 **[Xbox Page](https://github.com/viniciusnevescosta/concept-xbox-page):**
+    - Tech Stack: VUE3.
+    - Landing page com o tema do novo console da Microsoft, o Xbox Series X. Porque até mesmo uma página pode ser next-gen.
+
+7. 🔐 **[Login Page](https://github.com/viniciusnevescosta/login-page):**
+    - Tech Stack: SCSS.
+    - Página de login simples, apenas isso, mas ela é bonita também. Às vezes, menos é mais (mas o estilo é essencial).
+
+8. 👟 **[Tennis Page](https://github.com/viniciusnevescosta/challenge-codelandia-jordan-shoes):**
+    - Tech Stack: SCSS.
+    - Página de apresentação de alguns tênis que marcaram época nos anos 90, mas ainda são legais hoje em dia. Porque os clássicos nunca saem de moda.
+
+9. 🔍 **[Human Sciences Quiz Web App](https://github.com/viniciusnevescosta/schoolwork-quiz-webapp):**
    - Tech Stack: PHP, MySQL, JavaScript, CSS e HTML.
    - Desenvolvi este web app para uma prova online de ciências humanas. A landing page é uma introdução divertida ao caótico mundo das humanidades. Crie sua conta, inicie a prova e descubra que a História é tão imprevisível quanto o resultado!
 
-5. 🎮 **[Math Game](https://github.com/viniciusnevescosta/schoolwork-mathgame):**
-   - Tech Stack: VB.net.
-   - Entre na arena matemática! Crie um usuário, enfrente a tabuada do 1 na fase 1 e suba até a fase 10. Prove que você é o mestre da multiplicação e que a única coisa que divide por zero aqui é o seu entusiasmo!
+10. 🎮 **[Math Game](https://github.com/viniciusnevescosta/schoolwork-mathgame):**
+      - Tech Stack: VB.net.
+      - Entre na arena matemática! Crie um usuário, enfrente a tabuada do 1 na fase 1 e suba até a fase 10. Prove que você é o mestre da multiplicação e que a única coisa que divide por zero aqui é o seu entusiasmo!
   
-6. 📘 **[Minecraft Wiki](https://github.com/viniciusnevescosta/schoolwork-bmi-calculator):**
-   - Tech Stack: VB.net.
-   - Criei uma Wiki para todas as versões do Minecraft (1.17 na época). Passeie pela caverna da informação e descubra que, assim como no jogo, até mesmo a Wiki tem um tema escuro. Obs: Não há creepers, apenas conhecimento explosivo!
+11. 📘 **[Minecraft Wiki](https://github.com/viniciusnevescosta/schoolwork-bmi-calculator):**
+      - Tech Stack: VB.net.
+      - Criei uma Wiki para todas as versões do Minecraft (1.17 na época). Passeie pela caverna da informação e descubra que, assim como no jogo, até mesmo a Wiki tem um tema escuro. Obs: Não há creepers, apenas conhecimento explosivo!
 
-7. 📏 **[BMI Calculator](https://github.com/viniciusnevescosta/schoolwork-bmi-calculator):**
-   - Tech Stack: VB.net.
-   - Calculadora de IMC para medir o quanto eu sou 'geek' em forma. Descubra se você está mais para 'Bit' ou 'Byte' e se seu corpo é mais código binário do que humano. Spoiler: Nunca confie em um algoritmo para dizer se você está em forma!
+12. 📏 **[BMI Calculator](https://github.com/viniciusnevescosta/schoolwork-bmi-calculator):**
+      - Tech Stack: VB.net.
+      - Calculadora de IMC para medir o quanto eu sou 'geek' em forma. Descubra se você está mais para 'Bit' ou 'Byte' e se seu corpo é mais código binário do que humano. Spoiler: Nunca confie em um algoritmo para dizer se você está em forma!
   
-8. 💻 **[VB.net list of programs](https://github.com/viniciusnevescosta/schoolwork-vbnet-programs):**
-   - Tech Stack: VB.net.
-   - Uma lista de 16 programas VB.net que vão desde 'Olá, Mundo!' até 'Dominando o Universo com VB.net'. Cada programa é uma jornada épica no maravilhoso (e às vezes frustrante) mundo do VB.net. Spoiler: O 'Olá, Mundo!' é apenas o prólogo!
+13. 💻 **[VB.net list of programs](https://github.com/viniciusnevescosta/schoolwork-vbnet-programs):**
+      - Tech Stack: VB.net.
+      - Uma lista de 16 programas VB.net que vão desde 'Olá, Mundo!' até 'Dominando o Universo com VB.net'. Cada programa é uma jornada épica no maravilhoso (e às vezes frustrante) mundo do VB.net. Spoiler: O 'Olá, Mundo!' é apenas o prólogo!
   
 ## Como Navegar pelos Projetos
 
