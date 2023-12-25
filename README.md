@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos que desenvolvi durante minha jornada de aprendizado.
 
+- Read in [english.](en_README.md)
+
 ## Sumário de Conteúdos
 
 - [Projetos](#projetos)
