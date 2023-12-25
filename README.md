@@ -4,6 +4,7 @@
 
 Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos que desenvolvi durante minha jornada de aprendizado.
 
+- Roadmap de projetos de estudo/pessoais para [2024](https://github.com/users/viniciusnevescosta/projects/3).
 - Read in [english.](en_README.md)
 
 ## Sumário de Conteúdos
