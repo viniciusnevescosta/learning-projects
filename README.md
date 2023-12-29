@@ -36,7 +36,7 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
     - Tech Stack: JavaScript e SCSS.
     - Era para ser um web app de blog. Serve mais como um diário de pequenas ideias com funções semelhantes a um blog pessoal. Às vezes, os projetos são como gatos, têm uma mente própria.
 
-6. 🎮 **[Xbox Page](https://github.com/viniciusnevescosta/concept-xbox-page):**
+6. 🎮 **[Xbox Series X](https://github.com/viniciusnevescosta/concept-xbox-page):**
     - Tech Stack: VUE3.
     - Landing page com o tema do novo console da Microsoft, o Xbox Series X. Porque até mesmo uma página pode ser next-gen.
 
