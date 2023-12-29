@@ -64,7 +64,7 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
       - Tech Stack: VB.net.
       - Calculadora de IMC para medir o quanto eu sou 'geek' em forma. Descubra se você está mais para 'Bit' ou 'Byte' e se seu corpo é mais código binário do que humano. Spoiler: Nunca confie em um algoritmo para dizer se você está em forma!
   
-13. 💻 **[VB.net list of programs](https://github.com/viniciusnevescosta/schoolwork-vbnet-programs):**
+13. 💻 **[Vbnet Exercises](https://github.com/viniciusnevescosta/schoolwork-vbnet-programs):**
       - Tech Stack: VB.net.
       - Uma lista de 16 programas VB.net que vão desde 'Olá, Mundo!' até 'Dominando o Universo com VB.net'. Cada programa é uma jornada épica no maravilhoso (e às vezes frustrante) mundo do VB.net. Spoiler: O 'Olá, Mundo!' é apenas o prólogo!
   
