@@ -25,7 +25,7 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
    - Explorei o universo do NodeJs criando uma API CRUD de usuários. Seja bem-vindo à 'NodeVerse', onde até mesmo o banco de dados é uma parte ativa da narrativa. Prepare-se para CRUDtir essa experiência!
   
 3. 🖖 **[Learning VueJs](https://github.com/viniciusnevescosta/learning-vuejs):**
-   - Tech Stack: VUE3 e TailwindCSS.
+   - Tech Stack: VueJs e TailwindCSS.
    - Mergulhei no VueJs com um web app para gerenciar listas de compras. Descubra como VueJs facilita a criação de interfaces amigáveis, enquanto eu tento manter minha lista de compras sob controle. Spoiler: Comprar chocolate nunca foi tão eficiente!
   
 4. 💼 **[Dev Community](https://github.com/viniciusnevescosta/dev-community):**
@@ -37,7 +37,7 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
     - Era para ser um web app de blog. Serve mais como um diário de pequenas ideias com funções semelhantes a um blog pessoal. Às vezes, os projetos são como gatos, têm uma mente própria.
 
 6. 🎮 **[Xbox Series X](https://github.com/viniciusnevescosta/concept-xbox-page):**
-    - Tech Stack: VUE3.
+    - Tech Stack: VueJs.
     - Landing page com o tema do novo console da Microsoft, o Xbox Series X. Porque até mesmo uma página pode ser next-gen.
 
 7. 🔐 **[Login Page](https://github.com/viniciusnevescosta/login-page):**
@@ -107,4 +107,3 @@ Vou estar atualizando essa lista à medida que eu achar mais fontes de estudo de
 ---
 
 **Nota:** Este repositório é destinado apenas à apresentação e organização dos projetos de estudo. Cada projeto possui seu próprio repositório para contribuições e detalhes específicos.
-
