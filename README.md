@@ -30,7 +30,7 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
   
 4. 📦 **[inventory-management-app](https://github.com/viniciusnevescosta/learning-vuejs):**
    - Tech Stack: Mongoose, Express, DenoJs.
-   - Um simples sistema de controle de estoque. Desenvolvido com DenoJs, porque até mesmo os dinossauros modernizam seus métodos de gerenciamento.
+   - Um simples sistema de controle de estoque.
   
 5. 💼 **[Dev Community](https://github.com/viniciusnevescosta/dev-community):**
    - Tech Stack: TypeScript e SCSS.
