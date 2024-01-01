@@ -28,7 +28,7 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
    - Tech Stack: VueJs e TailwindCSS.
    - Mergulhei no VueJs com um web app para gerenciar listas de compras. Descubri como o VueJs facilita a criação de interfaces amigáveis, enquanto eu tento manter minha lista de compras sob controle. Spoiler: Comprar chocolate nunca foi tão eficiente!
   
-4. 📦 **[inventory-management-app](https://github.com/viniciusnevescosta/inventory-management-app):**
+4. 🦖 **[Deno APP](https://github.com/viniciusnevescosta/inventory-management-app):**
    - Tech Stack: Mongoose, Express, DenoJs.
    - Uma API Restful para um sistema de controle de estoque.
   
