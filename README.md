@@ -63,14 +63,6 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
 12. 📘 **[Minecraft Wiki](https://github.com/viniciusnevescosta/schoolwork-wiki-minecraft):**
       - Tech Stack: VB.net.
       - Criei uma Wiki para todas as versões do Minecraft (1.17 na época). Passeie pela caverna da informação e descubra que, assim como no jogo, até mesmo a Wiki tem um tema escuro. Obs: Não há creepers, apenas conhecimento explosivo!
-
-13. 📏 **[BMI Calculator](https://github.com/viniciusnevescosta/bmi-calculator):**
-      - Tech Stack: VB.net.
-      - Calculadora de IMC para medir o quanto eu sou 'geek' em forma. Descubra se você está mais para 'Bit' ou 'Byte' e se seu corpo é mais código binário do que humano. Spoiler: Nunca confie em um algoritmo para dizer se você está em forma!
-  
-14. 💻 **[Vbnet Exercises](https://github.com/viniciusnevescosta/vbnet-exercises):**
-      - Tech Stack: VB.net.
-      - Uma lista de 16 programas VB.net que vão desde 'Olá, Mundo!' até 'Dominando o Universo com VB.net'. Cada programa é uma jornada épica no maravilhoso (e às vezes frustrante) mundo do VB.net. Spoiler: O 'Olá, Mundo!' é apenas o prólogo!
   
 ## Como Navegar pelos Projetos
 
