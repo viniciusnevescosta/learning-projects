@@ -52,7 +52,7 @@ Bem-vindo ao meu repositório de projetos de estudo! Aqui estão alguns projetos
     - Tech Stack: SCSS.
     - Página de apresentação de alguns tênis que marcaram época nos anos 90, mas ainda são legais hoje em dia. Porque os clássicos nunca saem de moda.
 
-10. 🔍 **[Human Sciences Quiz](https://github.com/viniciusnevescosta/human-sciences-quiz):**
+10. 🔍 **[Web App Quiz](https://github.com/viniciusnevescosta/web-app-quiz):**
       - Tech Stack: PHP, MySQL, JavaScript, CSS e HTML.
       - Desenvolvi este web app para uma prova online de ciências humanas. A landing page é uma introdução divertida ao caótico mundo das humanidades. Crie sua conta, inicie a prova e descubra que a História é tão imprevisível quanto o resultado!
 
